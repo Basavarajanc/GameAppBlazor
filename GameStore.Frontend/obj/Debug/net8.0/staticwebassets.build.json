@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "zWQ0d7gyteyx6lMGpY2hcDGyqee3pU4yfChG8Nk3Oo0=",
+  "Source": "GameStore.Frontend",
+  "BasePath": "_content/GameStore.Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GameStore.Frontend/wwwroot",
+      "Source": "GameStore.Frontend",
+      "ContentRoot": "/Users/basav/Documents/HobbyProjects/GameStore/GameStore.Frontend/wwwroot/",
+      "BasePath": "_content/GameStore.Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/basav/Documents/HobbyProjects/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/bundle/GameStore.Frontend.styles.css",
+      "SourceId": "GameStore.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/basav/Documents/HobbyProjects/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/bundle/",
+      "BasePath": "_content/GameStore.Frontend",
+      "RelativePath": "GameStore.Frontend.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/basav/Documents/HobbyProjects/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/bundle/GameStore.Frontend.styles.css"
+    },
+    {
+      "Identity": "/Users/basav/Documents/HobbyProjects/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/projectbundle/GameStore.Frontend.bundle.scp.css",
+      "SourceId": "GameStore.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/basav/Documents/HobbyProjects/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "BasePath": "_content/GameStore.Frontend",
+      "RelativePath": "GameStore.Frontend.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/basav/Documents/HobbyProjects/GameStore/GameStore.Frontend/obj/Debug/net8.0/scopedcss/projectbundle/GameStore.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/basav/Documents/HobbyProjects/GameStore/GameStore.Frontend/wwwroot/app.css",
+      "SourceId": "GameStore.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/basav/Documents/HobbyProjects/GameStore/GameStore.Frontend/wwwroot/",
+      "BasePath": "_content/GameStore.Frontend",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/app.css"
+    }
+  ]
+}
